@@ -3,17 +3,9 @@
     <string name="texto_maracarraocarbonara">MACARRÃO CARBONARA</string>
     <string name="texto_risotto">RISOTTO CREMOSO</string>
     <string name="texto_rondelli">RONDELLI ITALIANO</string>
+    <string name="texto_cocacola">COCA COLA</string>
+    <string name="texto_fanta">FANTA</string>
+    <string name="texto_sprite">SPRITE</string>
 </resources>
 
-<TextView
-    android:id="@_id/textView"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:text="@string/texto_macarraocarbonara" />
 
-<ImageView
-    android:id="@+id/imageView"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:contentDescription="@string/texto_macarraocarbonara"
-    app:srcCompat="@drawable/macarraocarbonara" />
